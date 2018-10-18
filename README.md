@@ -23,3 +23,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 用户名：admin
 
 密码：123456
+
+![1](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(1).png)
