@@ -34,4 +34,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # 商品分类
 ![6](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(6).png)
 # 数据报表
-![7](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(7).png)
+![1](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(1).png)
