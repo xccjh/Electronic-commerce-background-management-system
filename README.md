@@ -1,4 +1,4 @@
-# 电商后台管理系统项目
+# Electronic-commerce-background-management-system
 
 > A Vue.js project
 
@@ -23,16 +23,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 用户名：admin
 
 密码：123456
-# 项目预览
-## 用户列表
-![2](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(2).png)
-## 角色列表
-![3](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(3).png)
-## 权限列表
-![4](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(4).png)
-## 商品列表
-![5](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(5).png)
-## 商品分类
-![6](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(6).png)
-## 数据报表
-![1](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/1%20(1).png)
+
