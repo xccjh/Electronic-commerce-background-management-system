@@ -23,4 +23,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 用户名：admin
 
 密码：123456
-![iamge](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/q%20(1).png)
+![iamge](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/w%20(1).jpg)
