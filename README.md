@@ -27,3 +27,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 ![image](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/w%20(1).jpg)
+![image](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/w%20(2).jpg)
+![image](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/w%20(3).jpg)
+![image](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/w%20(4).jpg)
+![image](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/w%20(5).jpg)
+![image](https://github.com/xccjh/Electronic-commerce-background-management-system/blob/master/images/w%20(6).jpg)
